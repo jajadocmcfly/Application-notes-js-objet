@@ -1,0 +1,10 @@
+#connect {
+	max-width:1600px;
+	width:100%;
+	max-height:1200;
+	height:20%;
+	border: black solid 1px;
+}
+#main {
+	background:url('../img/city.jpg');
+}
